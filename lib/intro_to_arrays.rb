@@ -9,16 +9,16 @@ end
 
 
 def first_element(taylor_swift)
-  my_first_element = first_element[0]
+  my_first_element[0]
 end
 
 def third_element(taylor_swift)
-  my_third_element = third_element[2]
+  my_third_element[2]
 end
 
 
 def last_element(taylor_swift)
-  my_last_element = last_element[-1]
+  my_last_element[-1]
 end
 
 
