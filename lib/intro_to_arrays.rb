@@ -9,16 +9,16 @@ end
 
 
 def first_element
-  my_first_element[0]
+  taylor_swift[0]
 end
 
 def third_element
-  my_third_element[2]
+  taylor_swift[2]
 end
 
 
 def last_element
-  my_last_element[-1]
+  taylor_swift[-1]
 end
 
 
